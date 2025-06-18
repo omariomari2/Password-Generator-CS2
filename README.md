@@ -63,6 +63,3 @@ Password: 8jA!zP3d@1xW
 
 This is a basic password management tool for learning and personal use. For enterprise-level security, use dedicated and audited password managers.
 
----
-
-Let me know if you'd like to include screenshots, contribution guidelines, or license information.
